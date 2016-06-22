@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Git Table" max_length="40" name="x_csmc_new_applica_git_table" type="collection">
+        <element label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
